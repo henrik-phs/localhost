@@ -1,3 +1,4 @@
 # localhost
-Página inicial para lamp server \n
+Página inicial para lamp server
+
 Necessário bootstrap
